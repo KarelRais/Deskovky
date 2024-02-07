@@ -1,0 +1,22 @@
+    LICENCE PRO APLIKACI "DESKOVKY"
+===========================================
+
+ODDÍL I. OBECNÉ INFO O APLIKACI
+1. Název aplikace: Deskovky
+2. Kontaktní údaje:
+   a) E-mail: rais_karel@oauh.cz
+
+ODDÍL II. GDPR
+1. O používání aplikace my neshromažďujeme ani nikomu nepředáváme žádné údaje.
+
+ODDÍL III. OPEN SOURCE LICENCE
+1. Aplikace je open source.
+2. Každý má právo aplikaci dále upravovat.
+3. Každý může aplikaci dále šířit, ale pouze zdarma.
+4. Každý, kdo aplikaci dále šíří, musí:
+   a) buď přiložit svůj zdrojový kód (doporučeno), nebo
+   b) přiložit soubor LICENSE.txt výslovně povolující dekompilaci (nedoporučeno, jen při nemožnosti přiložení zdrojového kódu).
+
+ODDÍL IV. PORUŠENÍ PODMÍNEK
+1. Pokud nesouhlasíte s podmínkami, nemáte právo aplikaci používat.
+2. Na jednu stranu nijak nevidíme, zda jste porušili podmínky. Na druhou stranu, PORUŠENÍ LICENCE OPEN SOURCE (zejména distribuce upravené verze za peníze a bez zdrojového kódu) MŮŽE BÝT PŘEČIN NEOPRÁVNĚNÉHO PODNIKÁNÍ A/NEBO FINANČNÍHO PODVODU!! V takovém případě OKAMŽITĚ, TRVALE A BEZ VÝJIMEK přicházíte o licenci!!
